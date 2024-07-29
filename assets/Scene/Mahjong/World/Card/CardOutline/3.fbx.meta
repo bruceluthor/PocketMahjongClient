@@ -5,23 +5,6 @@
   "uuid": "dab54f16-77f4-435d-8f3c-4a1b1b20abe1",
   "files": [],
   "subMetas": {
-    "aae43": {
-      "importer": "gltf-mesh",
-      "uuid": "dab54f16-77f4-435d-8f3c-4a1b1b20abe1@aae43",
-      "displayName": "",
-      "id": "aae43",
-      "name": "ChamferBox001.mesh",
-      "userData": {
-        "gltfIndex": 0
-      },
-      "ver": "1.1.0",
-      "imported": true,
-      "files": [
-        ".bin",
-        ".json"
-      ],
-      "subMetas": {}
-    },
     "5bb82": {
       "importer": "gltf-embeded-image",
       "uuid": "dab54f16-77f4-435d-8f3c-4a1b1b20abe1@5bb82",
@@ -39,6 +22,23 @@
       ],
       "subMetas": {}
     },
+    "aae43": {
+      "importer": "gltf-mesh",
+      "uuid": "dab54f16-77f4-435d-8f3c-4a1b1b20abe1@aae43",
+      "displayName": "",
+      "id": "aae43",
+      "name": "ChamferBox001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
     "940ca": {
       "importer": "texture",
       "uuid": "dab54f16-77f4-435d-8f3c-4a1b1b20abe1@940ca",
@@ -52,8 +52,8 @@
         "magfilter": "linear",
         "mipfilter": "none",
         "anisotropy": 0,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "dab54f16-77f4-435d-8f3c-4a1b1b20abe1@5bb82"
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Scene/Mahjong/World/Card/CardOutline/tex/未标题_1.png"
       },
       "ver": "1.0.22",
       "imported": true,
@@ -99,7 +99,7 @@
     "imageMetas": [
       {
         "name": "未标题_1.png",
-        "uri": "dab54f16-77f4-435d-8f3c-4a1b1b20abe1@5bb82"
+        "uri": "db://assets/Scene/Mahjong/World/Card/CardOutline/tex/未标题_1.png"
       }
     ],
     "fbx": {
